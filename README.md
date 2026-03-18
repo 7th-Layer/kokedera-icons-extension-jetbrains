@@ -38,10 +38,9 @@ IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform.
 
 ## Pair with the theme
 
-For the full experience, install both:
+For the full experience, install the matching color theme:
 
-- **[Kokedera Theme](https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme)** — the color theme
-- **Kokedera Icons** — this icon pack
+- **[Kokedera Theme](https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme)**
 
 ## License
 
