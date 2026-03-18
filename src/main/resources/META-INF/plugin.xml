@@ -1,0 +1,37 @@
+<idea-plugin>
+    <id>com.seventhlayer.kokedera.icons</id>
+    <name>Kokedera Icons - Japanese Moss Temple Icons</name>
+    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">7th Layer</vendor>
+
+    <description><![CDATA[
+    <h2>Kokedera Icons</h2>
+    <p>128 file &amp; folder icons inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto.
+    Flat, organic shapes drawn from moss, stone, and lantern light.</p>
+
+    <h3>Features</h3>
+    <ul>
+        <li>93 unique file icons covering 290+ file types</li>
+        <li>22 folder icon pairs with open/closed states</li>
+        <li>Designed to pair with the Kokedera color theme</li>
+        <li>Colors drawn from moss greens, lantern amber, cedar teal, and stone gray</li>
+    </ul>
+
+    <h3>Pair with the theme</h3>
+    <p>For the full experience, install both:</p>
+    <ul>
+        <li><a href="https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme">Kokedera Theme</a> — the color theme</li>
+        <li>Kokedera Icons — this icon pack</li>
+    </ul>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <fileIconProvider
+            implementation="com.seventhlayer.kokedera.icons.KokederaFileIconProvider"
+            order="first"/>
+        <iconProvider
+            implementation="com.seventhlayer.kokedera.icons.KokederaDirectoryIconProvider"
+            order="first"/>
+    </extensions>
+</idea-plugin>
