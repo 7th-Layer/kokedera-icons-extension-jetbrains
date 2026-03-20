@@ -2,6 +2,8 @@
 
 *File icons from the moss garden — for [JetBrains IDEs](https://www.jetbrains.com).*
 
+> **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
+
 ---
 
 ## About
@@ -23,19 +25,6 @@
 
 IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform.
 
-## Coverage
-
-| Category | Count |
-|----------|-------|
-| Programming languages | 25 |
-| Web & markup | 11 |
-| Data & config | 9 |
-| DevOps & infrastructure | 9 |
-| Documentation | 8 |
-| Tooling & meta | 16 |
-| Media & assets | 6 |
-| Folder icons | 22 |
-
 ## Pair with the theme
 
 For the full experience, install the matching color theme:
@@ -45,7 +34,3 @@ For the full experience, install the matching color theme:
 ## License
 
 [MIT](LICENSE)
-
----
-
-[kokedera.style](https://kokedera.style)
