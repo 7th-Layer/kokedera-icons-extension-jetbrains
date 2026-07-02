@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.seventhlayer.kokedera.icons</id>
     <name>Kokedera Icons - Japanese Moss Temple Icons</name>
-    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">7th Layer</vendor>
+    <vendor email="office@7thlayer.ventures" url="https://kokedera.style">lastdescent</vendor>
 
     <description><![CDATA[
     <h2>Kokedera Icons</h2>
@@ -10,9 +10,9 @@
     Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.</p>
 
     <ul>
-        <li><b>128+ file &amp; folder icons</b> covering languages, frameworks, configs, DevOps, docs, and media</li>
-        <li><b>22 named folder icons</b> (src, lib, tests, components, api, database, docker, and more)</li>
-        <li><b>296 file extension mappings</b> — from <code>.rs</code> to <code>.prisma</code> to <code>.dockerfile</code></li>
+        <li><b>151 file &amp; folder icons</b> covering languages, frameworks, configs, DevOps, docs, and media</li>
+        <li><b>21 named folder icons</b> covering 146 folder names (src, lib, tests, components, api, database, docker, and more)</li>
+        <li><b>560+ file name &amp; extension mappings</b> — from <code>.rs</code> to <code>.prisma</code> to <code>kustomization.yaml</code></li>
     </ul>
     ]]></description>
 
