@@ -1,6 +1,6 @@
 # 苔寺 Kokedera Icons
 
-*File icons from the moss garden — for [JetBrains IDEs](https://www.jetbrains.com).*
+*A file icon theme for [JetBrains IDEs](https://www.jetbrains.com), inspired by the moss temple garden in Kyoto.*
 
 > **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
 
@@ -10,9 +10,9 @@
 
 **Kokedera Icons** is a file icon theme for JetBrains IDEs, designed to pair with the [Kokedera color theme](https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme). Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.
 
-- **151 file & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
-- **21 named folder icons** (src, lib, tests, components, api, database, docker, and more)
-- **560+ file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
+- **File & folder icons** covering languages, frameworks, configs, DevOps, docs, and media
+- **Named folder icons** (src, lib, tests, components, api, database, docker, and more)
+- **Hundreds of file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
 
 ## Installation
 
@@ -25,7 +25,7 @@
 
 IntelliJ IDEA 2023.3+ and all JetBrains IDEs based on the IntelliJ Platform.
 
-## Pair with the theme
+## Pair with the color theme
 
 For the full experience, install the matching color theme:
 

@@ -5,14 +5,14 @@
 
     <description><![CDATA[
     <h2>Kokedera Icons</h2>
-    <p>File icons from the moss garden. Designed to pair with the
+    <p>A file icon theme inspired by the moss temple garden in Kyoto. Designed to pair with the
     <a href="https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme">Kokedera color theme</a>.
     Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.</p>
 
     <ul>
-        <li><b>151 file &amp; folder icons</b> covering languages, frameworks, configs, DevOps, docs, and media</li>
-        <li><b>21 named folder icons</b> covering 146 folder names (src, lib, tests, components, api, database, docker, and more)</li>
-        <li><b>560+ file name &amp; extension mappings</b> — from <code>.rs</code> to <code>.prisma</code> to <code>kustomization.yaml</code></li>
+        <li><b>File &amp; folder icons</b> covering languages, frameworks, configs, DevOps, docs, and media</li>
+        <li><b>Named folder icons</b> (src, lib, tests, components, api, database, docker, and more)</li>
+        <li><b>Hundreds of file name &amp; extension mappings</b> — from <code>.rs</code> to <code>.prisma</code> to <code>kustomization.yaml</code></li>
     </ul>
     ]]></description>
 
