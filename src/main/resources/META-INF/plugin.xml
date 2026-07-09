@@ -1,12 +1,12 @@
 <idea-plugin>
     <id>com.seventhlayer.kokedera.icons</id>
-    <name>Kokedera Icons - Japanese Moss Temple Icons</name>
+    <name>Kokedera Icons - Moss Temple Icons</name>
     <vendor email="office@7thlayer.ventures" url="https://kokedera.style">lastdescent</vendor>
 
     <description><![CDATA[
     <h2>Kokedera Icons</h2>
-    <p>A file icon theme inspired by the moss temple garden in Kyoto. Designed to pair with the
-    <a href="https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme">Kokedera color theme</a>.
+    <p>A moss-temple file icon theme — flat, organic shapes in moss, stone, and lantern light. Designed to pair with the
+    <a href="https://plugins.jetbrains.com/plugin/30629-kokedera-moss-temple-theme">Kokedera color theme</a>.
     Every icon draws from the same palette of moss greens, lantern ambers, and stone grays.</p>
 
     <ul>
