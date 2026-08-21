@@ -14,6 +14,10 @@
 - **Named folder icons** (src, lib, tests, components, api, database, docker, and more)
 - **Hundreds of file name & extension mappings** — from `.rs` to `.prisma` to `kustomization.yaml`
 
+## Icon sets
+
+Nine sets, one per Kokedera color theme variant (Morning, Dusk, Night, Spring, Summer, Autumn, Winter, Rain, Mist). The plugin picks the set automatically from the active theme — no setting needed. Under non-Kokedera themes it falls back to Morning (light IDEs) or Dusk (dark IDEs).
+
 ## Installation
 
 1. Open your JetBrains IDE (IntelliJ IDEA, WebStorm, PyCharm, GoLand, etc.)

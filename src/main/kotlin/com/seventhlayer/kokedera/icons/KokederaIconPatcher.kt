@@ -109,7 +109,9 @@ class KokederaIconPatcher : IconPathPatcher() {
     )
 
     override fun patchPath(path: String, classLoader: ClassLoader?): String? {
-        return iconMappings[path]
+        val target = iconMappings[path] ?: return null
+        // route into the icon set matching the active theme variant
+        return "/icons/" + KokederaIconSet.prefix() + target.removePrefix("/icons/")
     }
 
     override fun getContextClassLoader(path: String, originalClassLoader: ClassLoader?): ClassLoader? {

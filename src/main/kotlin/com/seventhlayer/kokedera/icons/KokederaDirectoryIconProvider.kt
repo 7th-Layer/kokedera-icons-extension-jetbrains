@@ -28,6 +28,6 @@ class KokederaDirectoryIconProvider : IconProvider(), DumbAware {
     }
 
     private fun loadIcon(name: String): Icon {
-        return IconLoader.getIcon("/icons/$name.svg", KokederaDirectoryIconProvider::class.java)
+        return IconLoader.getIcon(KokederaIconSet.iconPath(name), KokederaDirectoryIconProvider::class.java)
     }
 }

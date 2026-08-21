@@ -15,6 +15,6 @@ class KokederaFileIconProvider : FileIconProvider {
     }
 
     private fun loadIcon(name: String): Icon {
-        return IconLoader.getIcon("/icons/$name.svg", KokederaFileIconProvider::class.java)
+        return IconLoader.getIcon(KokederaIconSet.iconPath(name), KokederaFileIconProvider::class.java)
     }
 }
